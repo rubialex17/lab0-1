@@ -11,7 +11,7 @@ $(document).ready(function() {
 //		});	
 //	});
 //}
-function registerSearch() {
+prueba : function registerSearch() {
 	$("#search").submit(function(ev){
 		event.preventDefault();
 		
